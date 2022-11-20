@@ -60,3 +60,4 @@
 - [Samprati Vyawahare](https://github.com/Sampratii)
 - [Khalid Ibrahim](https://github.com/khalid-212)
 - [Kenenisa alemayehu](https://github.com/kenenisa)
+- [Khalid](https://github.com/khalid-212)
